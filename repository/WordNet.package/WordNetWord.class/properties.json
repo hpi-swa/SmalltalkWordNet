@@ -1,0 +1,16 @@
+{
+	"category" : "WordNet",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"synset",
+		"type",
+		"word" ],
+	"name" : "WordNetWord",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

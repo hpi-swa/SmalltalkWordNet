@@ -1,0 +1,4 @@
+accessing
+synset
+
+	^ synset

@@ -1,0 +1,15 @@
+{
+	"category" : "WordNet",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"predicate",
+		"parameters" ],
+	"name" : "WordNetPrologStatement",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,0 +1,16 @@
+{
+	"category" : "WordNet",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"stream",
+		"result",
+		"currentStatement" ],
+	"name" : "WordNetParser",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

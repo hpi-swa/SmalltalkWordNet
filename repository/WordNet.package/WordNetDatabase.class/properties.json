@@ -1,0 +1,15 @@
+{
+	"category" : "WordNet",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"data",
+		"wordIndex" ],
+	"name" : "WordNetDatabase",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
