@@ -1,0 +1,14 @@
+{
+	"category" : "WordNet",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "WordNetNormalizedDatabase",
+	"pools" : [
+		 ],
+	"super" : "WordNetDatabase",
+	"type" : "normal" }

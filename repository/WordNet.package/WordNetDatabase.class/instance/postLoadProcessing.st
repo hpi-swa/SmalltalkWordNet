@@ -1,0 +1,4 @@
+private
+postLoadProcessing
+
+	self buildIndex.
