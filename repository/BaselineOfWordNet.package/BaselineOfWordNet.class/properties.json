@@ -1,0 +1,14 @@
+{
+	"category" : "BaselineOfWordNet",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfWordNet",
+	"pools" : [
+		 ],
+	"super" : "BaselineOf",
+	"type" : "normal" }
