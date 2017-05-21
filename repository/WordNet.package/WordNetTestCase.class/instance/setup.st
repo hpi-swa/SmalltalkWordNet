@@ -1,5 +1,5 @@
 as yet unclassified
-setup
+setUp
 
 	Smalltalk at: #WordNet ifAbsent: [
 		WordNetDatabase install].
