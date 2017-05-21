@@ -1,4 +1,4 @@
-# SmalltalkWordNet
+# SmalltalkWordNet  [![Build Status](https://travis-ci.org/HPI-SWA-Lab/SmalltalkWordNet.svg)](https://travis-ci.org/HPI-SWA-Lab/SmalltalkWordNet)
 Provides an object representation of the wordnet database.
 
 ## Setup
