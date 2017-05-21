@@ -8,7 +8,11 @@
 	"instvars" : [
 		"synsetId",
 		"words",
-		"glossary" ],
+		"glossary",
+		"hypernyms",
+		"hyponyms",
+		"instances",
+		"instanceOf" ],
 	"name" : "WordNetSynset",
 	"pools" : [
 		 ],

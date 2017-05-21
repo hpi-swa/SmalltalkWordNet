@@ -3,10 +3,14 @@
 		 },
 	"instance" : {
 		"g:" : "pre 10/10/2016 18:24",
+		"hyp:" : "pre 5/21/2017 21:20",
 		"initialize" : "pre 10/10/2016 16:01",
+		"instance:" : "pre 5/21/2017 21:38",
 		"interpretIn:" : "pre 10/10/2016 18:24",
 		"parameters" : "pre 10/10/2016 16:01",
 		"parameters:" : "pre 10/10/2016 16:01",
 		"predicate" : "pre 10/10/2016 16:01",
 		"predicate:" : "pre 10/10/2016 16:01",
-		"s:" : "pre 10/10/2016 18:24" } }
+		"s:" : "pre 10/10/2016 18:24",
+		"syntacticMarkerSymbol:" : "pre 5/21/2017 21:25",
+		"syntax:" : "pre 5/21/2017 21:22" } }

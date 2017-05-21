@@ -1,17 +1,14 @@
 {
-	"category" : "WordNet",
+	"category" : "WordNet-Tests",
 	"classinstvars" : [
 		 ],
 	"classvars" : [
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"synset",
-		"type",
-		"word",
-		"syntacticMarker" ],
-	"name" : "WordNetWord",
+		 ],
+	"name" : "WordNetTestCase",
 	"pools" : [
 		 ],
-	"super" : "Object",
+	"super" : "TestCase",
 	"type" : "normal" }

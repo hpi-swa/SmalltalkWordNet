@@ -1,14 +1,15 @@
 {
 	"class" : {
 		"install" : "pre 10/11/2016 18:42",
-		"loadWordNetInto:" : "pre 10/11/2016 18:44" },
+		"loadWordNetInto:" : "pre 5/21/2017 21:19" },
 	"instance" : {
 		"buildIndex" : "pre 10/11/2016 10:55",
 		"data" : "pre 10/10/2016 15:41",
 		"data:" : "pre 10/10/2016 15:41",
 		"glossaryFor:" : "pre 10/10/2016 15:44",
 		"initialize" : "pre 10/10/2016 18:25",
-		"newWord:ofType:" : "pre 10/10/2016 18:18",
+		"newWord:ofType:" : "pre 5/21/2017 21:00",
 		"postLoadProcessing" : "pre 10/11/2016 18:42",
+		"squeakSymbolForType:" : "pre 5/21/2017 21:01",
 		"synonymsFor:" : "pre 10/11/2016 17:48",
 		"synsetForId:" : "pre 10/10/2016 18:17" } }

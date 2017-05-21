@@ -7,7 +7,7 @@ loadWordNetInto: database
 	| wordNetRootDirectory filesInLoadOrder statements |
 	wordNetRootDirectory := FileDirectory default / 'wordnet'.
 	
-	filesInLoadOrder := {'wn_s.pl' . 'wn_g.pl'}.
+	filesInLoadOrder := {'wn_s.pl' . 'wn_g.pl' . 'wn_syntax.pl' . 'wn_hyp.pl'}.
 	
 	filesInLoadOrder do: [:fileName |
 		statements := Set new.

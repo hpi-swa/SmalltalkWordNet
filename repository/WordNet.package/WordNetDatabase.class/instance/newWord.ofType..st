@@ -3,5 +3,5 @@ newWord: aString ofType: wordType
 
 	^ WordNetWord new
 		word: aString;
-		wordType: wordType;
+		wordType: (self squeakSymbolForType: wordType);
 		yourself

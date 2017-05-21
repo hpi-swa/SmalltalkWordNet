@@ -1,0 +1,13 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"setup" : "pre 5/21/2017 21:26",
+		"synsets" : "pre 5/21/2017 21:45",
+		"testSynsetWordTypes" : "pre 5/21/2017 21:45",
+		"testWordNetAccessToSynsets" : "pre 5/21/2017 21:28",
+		"testWordNetGlossary" : "pre 5/21/2017 21:45",
+		"testWordNetInstancesOnlyForNouns" : "pre 5/21/2017 21:45",
+		"testWordNetSyntacticMarkersValues" : "pre 5/21/2017 21:45",
+		"testWordWordTypes" : "pre 5/21/2017 21:45",
+		"words" : "pre 5/21/2017 21:46" } }
