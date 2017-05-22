@@ -2,7 +2,7 @@
 	"class" : {
 		 },
 	"instance" : {
-		"setUp" : "pre 5/22/2017 09:59",
+		"setUp" : "pre 5/22/2017 10:07",
 		"synsets" : "pre 5/21/2017 21:45",
 		"testSynsetWordTypes" : "pre 5/21/2017 21:45",
 		"testWordNetAccessToSynsets" : "pre 5/21/2017 21:28",
