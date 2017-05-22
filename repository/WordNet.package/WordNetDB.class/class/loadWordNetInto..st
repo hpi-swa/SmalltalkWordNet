@@ -1,7 +1,8 @@
 as yet unclassified
 loadWordNetInto: database
 
-	"This script loads WordNet and assumes that the Prolog database export is in the image folder in a folder named 'wordnet'.
+	"This script loads WordNet and assumes that the Prolog database 
+	export is in the image folder in a folder named 'wordnet'.
 	The script only loads the synset and glossary data sets."
 	
 	| wordNetRootDirectory filesInLoadOrder statements |

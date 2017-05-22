@@ -3,12 +3,12 @@
 	"classinstvars" : [
 		 ],
 	"classvars" : [
-		 ],
+		"Instance" ],
 	"commentStamp" : "",
 	"instvars" : [
 		"data",
 		"wordIndex" ],
-	"name" : "WordNetDatabase",
+	"name" : "WordNetDB",
 	"pools" : [
 		 ],
 	"super" : "Object",

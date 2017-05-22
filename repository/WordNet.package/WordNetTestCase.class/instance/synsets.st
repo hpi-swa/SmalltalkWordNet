@@ -1,4 +1,4 @@
 as yet unclassified
 synsets
 
-	^ WordNet data values
+	^ self wordnet data values

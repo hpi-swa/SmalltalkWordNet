@@ -5,4 +5,4 @@ install
 	newDatabase := self new.
 	self loadWordNetInto: newDatabase.
 	newDatabase postLoadProcessing.
-	Smalltalk at: #WordNet put: newDatabase
+	Instance := newDatabase
