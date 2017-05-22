@@ -2,12 +2,13 @@
 	"class" : {
 		 },
 	"instance" : {
-		"setUp" : "pre 5/22/2017 10:07",
+		"setUp" : "pre 5/22/2017 10:22",
 		"synsets" : "pre 5/21/2017 21:45",
 		"testSynsetWordTypes" : "pre 5/21/2017 21:45",
 		"testWordNetAccessToSynsets" : "pre 5/21/2017 21:28",
 		"testWordNetGlossary" : "pre 5/21/2017 21:45",
-		"testWordNetInstancesOnlyForNouns" : "pre 5/21/2017 21:45",
+		"testWordNetInstancesOnlyForNouns" : "pre 5/22/2017 10:10",
 		"testWordNetSyntacticMarkersValues" : "pre 5/21/2017 21:45",
 		"testWordWordTypes" : "pre 5/21/2017 21:45",
+		"timeoutForSetUp" : "pre 5/22/2017 10:21",
 		"words" : "pre 5/21/2017 21:46" } }
