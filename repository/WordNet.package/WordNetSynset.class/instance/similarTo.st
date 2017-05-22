@@ -1,0 +1,4 @@
+accessing
+similarTo
+
+	^ similarTo

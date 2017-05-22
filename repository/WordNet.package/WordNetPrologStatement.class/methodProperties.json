@@ -2,15 +2,20 @@
 	"class" : {
 		 },
 	"instance" : {
+		"ent:" : "pre 5/22/2017 18:29",
 		"g:" : "pre 10/10/2016 18:24",
 		"hyp:" : "pre 5/21/2017 21:20",
 		"initialize" : "pre 10/10/2016 16:01",
-		"instance:" : "pre 5/21/2017 21:38",
+		"ins:" : "pre 5/22/2017 18:32",
 		"interpretIn:" : "pre 10/10/2016 18:24",
+		"mm:" : "pre 5/22/2017 18:46",
+		"mp:" : "pre 5/22/2017 18:47",
+		"ms:" : "pre 5/22/2017 18:47",
 		"parameters" : "pre 10/10/2016 16:01",
 		"parameters:" : "pre 10/10/2016 16:01",
 		"predicate" : "pre 10/10/2016 16:01",
 		"predicate:" : "pre 10/10/2016 16:01",
 		"s:" : "pre 10/10/2016 18:24",
+		"sim:" : "pre 5/22/2017 18:52",
 		"syntacticMarkerSymbol:" : "pre 5/21/2017 21:25",
 		"syntax:" : "pre 5/21/2017 21:22" } }

@@ -1,0 +1,4 @@
+accessing
+entailments
+
+	^ entailments

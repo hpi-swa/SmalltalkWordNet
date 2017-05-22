@@ -1,0 +1,4 @@
+accessing
+partMeronyms
+
+	^ partMeronyms
