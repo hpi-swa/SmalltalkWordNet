@@ -8,7 +8,7 @@ wordnet (https://wordnet.princeton.edu/wordnet/download/) in a 'wordnet' folder 
 You can then load the data through:
 
 ````Smalltalk
-WordNetDatabase install.
+WordNetDB install.
 ````
 
-This will provide a global object ````WordNet```` which provides access to the data.
+This will provide an instance you can access through ````WordNetDB current````.
