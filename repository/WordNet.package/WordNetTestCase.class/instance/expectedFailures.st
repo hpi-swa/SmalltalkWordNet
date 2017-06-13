@@ -1,4 +1,4 @@
 as yet unclassified
 expectedFailures
 
-	^ #(testWordNetSimilarToDefinesClusters)
+	^ #(testWordNetSimilarToDefinesClusters testDerivationalMorphology testWordNetClassMembershipOfSynsets)

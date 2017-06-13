@@ -22,7 +22,11 @@
 		"substanceHolonymOf",
 		"substanceMeronyms",
 		"partHolonymOf",
-		"partMeronyms" ],
+		"partMeronyms",
+		"causedBy",
+		"causeOf",
+		"attributeAdjectives",
+		"attributeOfNouns" ],
 	"name" : "WordNetSynset",
 	"pools" : [
 		 ],

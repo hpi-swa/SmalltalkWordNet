@@ -8,6 +8,8 @@ testAllRelationsAreSet
 		memberHolonymOf memberMeronyms 
 		substanceHolonymOf substanceMeronyms 
 		partHolonymOf partMeronyms
-		glossary) 
+		glossary 
+		causeOf causedBy
+		attributeAdjectives attributeOfNouns) 
 			do: [:relation |
 				self assert: (self synsets anySatisfy: [:s | (s perform: relation) isEmptyOrNil not])]

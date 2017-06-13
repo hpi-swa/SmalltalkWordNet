@@ -18,4 +18,8 @@ initialize
 		substanceMeronyms: Set new;
 		substanceHolonymOf: Set new;
 		partMeronyms: Set new;
-		partHolonymOf: Set new.
+		partHolonymOf: Set new;
+		causeOf: Set new;
+		causedBy: Set new;
+		attributeAdjectives: Set new;
+		attributeOfNouns: Set new.

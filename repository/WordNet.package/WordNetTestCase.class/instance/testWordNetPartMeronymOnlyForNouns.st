@@ -3,4 +3,4 @@ testWordNetPartMeronymOnlyForNouns
 	
 	self synsets do: [:s | 
 		self assert: (s partMeronyms notEmpty or: [s partHolonymOf notEmpty]) 
-						==> [s wordType = #noun]]
+						==> [s isNoun]]

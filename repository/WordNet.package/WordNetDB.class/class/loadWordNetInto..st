@@ -8,7 +8,7 @@ loadWordNetInto: database
 	| wordNetRootDirectory filesInLoadOrder statements |
 	wordNetRootDirectory := FileDirectory default / 'wordnet'.
 	
-	filesInLoadOrder := {'wn_s.pl' . 'wn_g.pl' . 'wn_syntax.pl' . 'wn_hyp.pl' . 'wn_ins.pl' . 'wn_ent.pl' . 'wn_sim.pl' . 'wn_mm.pl' . 'wn_ms.pl' . 'wn_mp.pl'}.
+	filesInLoadOrder := {'wn_s.pl' . 'wn_g.pl' . 'wn_syntax.pl' . 'wn_hyp.pl' . 'wn_ins.pl' . 'wn_ent.pl' . 'wn_sim.pl' . 'wn_mm.pl' . 'wn_ms.pl' . 'wn_mp.pl' . 'wn_cs.pl' . 'wn_at.pl'}.
 	
 	filesInLoadOrder do: [:fileName |
 		statements := Set new.

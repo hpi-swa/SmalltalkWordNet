@@ -1,0 +1,4 @@
+accessing
+attributeOfNouns
+
+	^ attributeOfNouns
